@@ -1,78 +1,103 @@
-# Hi, I'm [Qasim]
+<!-- Optional banner:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Globeeeee/Globeeeee/main/assets/banner.png" alt="Qasim — banner" width="100%" />
+</p>
+-->
 
-Mobile and backend engineer focused on **cross‑platform apps (Flutter/Dart)**, **Node.js APIs**, and **practical AI automation** (Gemini, conversational flows, bots). I care about clear architecture, solid integrations, and shipping products people actually use.
+<div align="center">
+
+### Qasim
+
+**Flutter · Dart · Node.js · AI automation**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cross-platform+mobile;REST+%26+real-time+APIs;Gemini+%2B+WhatsApp+bots;Shipping+products+people+use)](https://github.com/Globeeeee)
+
+<br/>
+
+<a href="https://github.com/Globeeeee?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<table align="center"><tr><td valign="top" width="50%">
+
+### Focus
+
+I build **cross-platform apps** (Flutter/Dart), **Node.js backends**, and **AI-assisted automation** — Gemini, conversational flows, and WhatsApp bots. I care about **clear boundaries**, **reliable integrations**, and code that stays understandable six months later.
+
+<br/>
+
+**Currently** · LLM patterns · Python for tooling · production chatbot design · secure APIs
+
+</td><td valign="top" width="50%">
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nodejs,express,firebase,postgres,redis,git,linux&perline=6" alt="Skills" />
+</p>
+
+</td></tr></table>
+
+<br/>
 
 ---
 
-## Tech I work with
+### Highlights
 
-| Area | Stack |
-|------|--------|
-| **Mobile** | Flutter, Dart, REST APIs, state management, UI/UX |
-| **Backend** | Node.js, JavaScript/TypeScript, API design, auth & integrations |
-| **AI & automation** | Gemini, LLM-backed assistants, WhatsApp bots, auto-reply systems |
-| **Foundations** | Data structures, algorithms, OOP, readable, maintainable code |
-
----
-
-## Selected projects
+<table>
+<tr>
+<td width="33%" valign="top">
 
 **Mobility & IoT**  
-- **EV-GO** — EV ecosystem (Flutter app + web)  
-- **EV-Bike** — E-bike management (Flutter)  
-- **Digital Stations App** — Station / IoT operations (Flutter)
+EV-GO · EV-Bike · Digital Stations  
 
-**Commerce & services**  
-- **Asaan-Kharidari** — Shopping experience (Dart/Flutter)  
-- **DigitalCleanSolution** — Service marketplace (Flutter)
+</td>
+<td width="33%" valign="top">
 
-**AI & integrations**  
-- **Devstive WhatsApp Bot** — Gemini-powered WhatsApp automation  
-- **Instagram API** — Custom automation layer (JavaScript)
+**Commerce**  
+Asaan-Kharidari · DigitalCleanSolution  
 
-**Web & learning**  
-- **MERN stack** — First full-stack web app  
-- **EV-GO Web** — Companion web platform (JavaScript)  
-- **Algorithm practice** — C++ / DSA  
-- **Rubix Cube Solver** — 3D puzzle solver (C#)
+</td>
+<td width="34%" valign="top">
 
----
+**AI & web**  
+Devstive WhatsApp Bot · Instagram API · MERN · EV-GO Web  
 
-## GitHub
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&langs_count=8&theme=default" alt="Top languages" />
-</p>
+<details>
+<summary><b>More — learning & experiments</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Globeeeee&theme=default" alt="Contribution streak" />
-</p>
+- Algorithm practice (C++ / DSA)  
+- Rubix Cube Solver (C#)
 
----
+</details>
 
-## Currently learning
+<br/>
 
-- Advanced LLM integration patterns (Gemini and beyond)  
-- Python for data work and backend tooling  
-- Production-ready chatbot design (reliability, safety, observability)  
-- Secure APIs: authentication, authorization, and threat-aware design  
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
 
-## Connect
+<br/><br/>
 
-Open to **collaborations**, **open source** (Flutter & AI), and **technical discussions**.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Globeeeee&theme=tokyonight&hide_border=true" alt="streak" />
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-</p>
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Globeeeee&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<br/>
 
 <p align="center">
-  <sub>If a repo helped you, a star is appreciated.</sub>
+  <sub>Building in public — stars and feedback always welcome.</sub>
 </p>
