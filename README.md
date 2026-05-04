@@ -33,17 +33,29 @@
 
 <div align="center">
 
-### 🌟 [Project Name 1](https://github.com/Globeeeee/project1)
-**Full-Stack Application** | React • Node.js • PostgreSQL
-> Brief description of what this project does and its impact
+### 🌟 [EV-GO](https://github.com/Globeeeee/EV-GO)
+**Electric Vehicle Management** | Node.js • React
+> Comprehensive EV charging and management platform
 
-### 🌟 [Project Name 2](https://github.com/Globeeeee/project2)
-**Microservices Architecture** | Python • Docker • Kubernetes
-> Brief description of what this project does and its impact
+### 🌟 [Asaan-Kharidari-Frontend](https://github.com/Globeeeee/Asaan-Kharidari-Frontend)
+**E-Commerce Frontend** | React • JavaScript
+> Feature-rich e-commerce user interface for seamless shopping experience
 
-### 🌟 [Project Name 3](https://github.com/Globeeeee/project3)
-**DevOps Automation** | AWS • Terraform • CI/CD
-> Brief description of what this project does and its impact
+### 🌟 [DigitalCleanSolution](https://github.com/Globeeeee/DigitalCleanSolution)
+**Business Solution Platform** | Full-Stack
+> Innovative digital solution for business optimization
+
+### 🌟 [MERN](https://github.com/Globeeeee/MERN)
+**MERN Stack Application** | MongoDB • Express • React • Node.js
+> Full-stack web application demonstrating modern web development practices
+
+### 🌟 [Ev-GO-Web](https://github.com/Globeeeee/Ev-GO-Web)
+**EV Platform Web Interface** | React • JavaScript
+> Web-based interface for electric vehicle management system
+
+### 🌟 [all_videos_downloader](https://github.com/Globeeeee/all_videos_downloader)
+**Video Download Utility** | Python
+> Multi-platform video downloader tool
 
 </div>
 
