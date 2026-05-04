@@ -1,4 +1,4 @@
-<!-- Banner (optional but recommended) -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Qasim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -31,12 +31,12 @@
 
 I build **scalable apps and systems** across:
 
-- 📱 Cross-platform apps (Flutter)
-- ⚙️ Backend APIs (Node.js / Express)
-- 🤖 AI automation (LLMs, chatbots, WhatsApp integrations)
+- 📱 Cross-platform apps (Flutter)  
+- ⚙️ Backend APIs (Node.js / Express)  
+- 🤖 AI automation (LLMs, chatbots, WhatsApp integrations)  
 
-I focus on:
-> clean architecture · maintainability · real-world usability
+I focus on:  
+> clean architecture · maintainability · real-world usability  
 
 ---
 
@@ -101,10 +101,10 @@ I focus on:
 
 ---
 
-## 🐍 Contribution Graph (Animated)
+## 🟡 Contribution Graph (Pac-Man)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Globeeeee/Globeeeee/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
