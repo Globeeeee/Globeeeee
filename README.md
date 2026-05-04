@@ -1,103 +1,121 @@
-<!-- Optional banner:
+<!-- Banner (optional but recommended) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Globeeeee/Globeeeee/main/assets/banner.png" alt="Qasim — banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Qasim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
--->
 
 <div align="center">
 
-### Qasim
+## 👋 Hi, I'm Qasim
 
-**Flutter · Dart · Node.js · AI automation**
+**Flutter · Node.js · AI Automation**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cross-platform+mobile;REST+%26+real-time+APIs;Gemini+%2B+WhatsApp+bots;Shipping+products+people+use)](https://github.com/Globeeeee)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Cross-platform+mobile+apps;Scalable+backend+systems;AI+chatbots+%26+automation;Building+products+that+actually+ship" />
 
 <br/>
 
-<a href="https://github.com/Globeeeee?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:qasimmushtaq223@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Globeeeee?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/📩_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
-
-<br/>
-
-<table align="center"><tr><td valign="top" width="50%">
-
-### Focus
-
-I build **cross-platform apps** (Flutter/Dart), **Node.js backends**, and **AI-assisted automation** — Gemini, conversational flows, and WhatsApp bots. I care about **clear boundaries**, **reliable integrations**, and code that stays understandable six months later.
-
-<br/>
-
-**Currently** · LLM patterns · Python for tooling · production chatbot design · secure APIs
-
-</td><td valign="top" width="50%">
-
-### Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nodejs,express,firebase,postgres,redis,git,linux&perline=6" alt="Skills" />
-</p>
-
-</td></tr></table>
-
-<br/>
 
 ---
 
-### Highlights
+## 🧠 What I Do
 
-<table>
-<tr>
-<td width="33%" valign="top">
+I build **scalable apps and systems** across:
 
-**Mobility & IoT**  
-EV-GO · EV-Bike · Digital Stations  
+- 📱 Cross-platform apps (Flutter)
+- ⚙️ Backend APIs (Node.js / Express)
+- 🤖 AI automation (LLMs, chatbots, WhatsApp integrations)
 
-</td>
-<td width="33%" valign="top">
+I focus on:
+> clean architecture · maintainability · real-world usability
 
-**Commerce**  
-Asaan-Kharidari · DigitalCleanSolution  
+---
 
-</td>
-<td width="34%" valign="top">
+## ⚡ Current Focus
 
-**AI & web**  
-Devstive WhatsApp Bot · Instagram API · MERN · EV-GO Web  
+- 🧩 LLM patterns & prompt design  
+- 🐍 Python tooling for automation  
+- 💬 Production-grade chatbots  
+- 🔐 Secure and scalable APIs  
 
-</td>
-</tr>
-</table>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nodejs,express,firebase,postgres,redis,git,linux&perline=6" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🔌 Mobility & IoT
+- EV-GO  
+- EV-Bike  
+- Digital Stations  
+
+### 🛒 Commerce
+- Asaan-Kharidari  
+- DigitalCleanSolution  
+
+### 🤖 AI & Web
+- WhatsApp Bot  
+- Instagram API  
+- MERN Apps  
+- EV-GO Web  
 
 <details>
-<summary><b>More — learning & experiments</b></summary>
+<summary>🧪 Experiments & Learning</summary>
 
-- Algorithm practice (C++ / DSA)  
-- Rubix Cube Solver (C#)
+- DSA (C++ practice)  
+- Rubik’s Cube Solver (C#)
 
 </details>
 
-<br/>
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Globeeeee&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Globeeeee&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
-<br/>
+## 📊 GitHub Insights
 
 <p align="center">
-  <sub>Building in public — stars and feedback always welcome.</sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Globeeeee&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🐍 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💬 Philosophy
+
+> Build things people actually use.  
+> Keep it simple. Make it last.
+
+---
+
+<p align="center">
+  <sub>⭐ If you like my work, feel free to star a repo or connect!</sub>
 </p>
