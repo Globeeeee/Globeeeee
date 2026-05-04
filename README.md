@@ -6,14 +6,14 @@
 ### 📊 Technology Distribution
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 </div>
 
 ---
@@ -22,42 +22,35 @@
 
 | Category | Skills |
 |----------|--------|
-| **Frontend** | UI/UX Implementation, Responsive Design, State Management, Performance Optimization |
-| **Backend** | API Design, Database Optimization, Authentication & Security, Scalability |
-| **DevOps** | Infrastructure as Code, Container Orchestration, Monitoring & Logging, CI/CD Pipelines |
-| **Soft Skills** | Problem Solving, Team Collaboration, System Design, Technical Documentation |
+| **Mobile Development** | Cross-platform app development, UI/UX implementation, State management, REST API integration |
+| **Backend Systems** | API design & development, WhatsApp bot automation, AI integration, Server-side logic |
+| **AI & Automation** | Gemini AI integration, Conversational AI, Auto-reply systems, Chat bot development |
+| **Software Fundamentals** | Data Structures, Algorithms, OOP, Problem Solving, Code Quality |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Recent Projects
 
-<div align="center">
+**Smart Mobility Solutions:**
+- **EV-GO** - Comprehensive electric vehicle ecosystem (Flutter mobile app + Web platform)
+- **EV-Bike** - Electric bike management application (Flutter)
+- **Digital Stations App** - IoT-enabled station management system (Flutter)
 
-### 🌟 [EV-GO](https://github.com/Globeeeee/EV-GO)
-**Electric Vehicle Management** | Node.js • React
-> Comprehensive EV charging and management platform
+**E-Commerce & Marketplace:**
+- **Asaan-Kharidari** - Easy shopping platform (Dart/Flutter frontend)
+- **DigitalCleanSolution** - Service marketplace application (Flutter)
 
-### 🌟 [Asaan-Kharidari-Frontend](https://github.com/Globeeeee/Asaan-Kharidari-Frontend)
-**E-Commerce Frontend** | React • JavaScript
-> Feature-rich e-commerce user interface for seamless shopping experience
+**AI & Automation:**
+- **Devstive WhatsApp Bot** - Intelligent WhatsApp auto-reply with Gemini AI integration
+- **Instagram API** - Custom API for Instagram automation (JavaScript)
 
-### 🌟 [DigitalCleanSolution](https://github.com/Globeeeee/DigitalCleanSolution)
-**Business Solution Platform** | Full-Stack
-> Innovative digital solution for business optimization
+**Full-Stack Development:**
+- **MERN Stack Project** - My first full-stack web application
+- **Ev-GO Web** - Web platform for EV-GO ecosystem (JavaScript)
 
-### 🌟 [MERN](https://github.com/Globeeeee/MERN)
-**MERN Stack Application** | MongoDB • Express • React • Node.js
-> Full-stack web application demonstrating modern web development practices
-
-### 🌟 [Ev-GO-Web](https://github.com/Globeeeee/Ev-GO-Web)
-**EV Platform Web Interface** | React • JavaScript
-> Web-based interface for electric vehicle management system
-
-### 🌟 [all_videos_downloader](https://github.com/Globeeeee/all_videos_downloader)
-**Video Download Utility** | Python
-> Multi-platform video downloader tool
-
-</div>
+**Learning & Practice:**
+- **Algorithm Practice** - C++ data structures and competitive programming
+- **Rubix Cube Solver** - 3D puzzle solver (C#)
 
 ---
 
@@ -78,20 +71,20 @@
 
 ## 🎓 Currently Learning
 
-- 🔭 Advanced Kubernetes patterns and service mesh architecture
-- 📚 Cloud-native application design with Go
-- 🤖 Machine Learning integration with production systems
-- 🔐 Zero-trust security architecture
+- 🔭 Advanced Gemini AI patterns and LLM integration
+- 📚 Python for data science and backend optimization
+- 🤖 Production-grade chatbot architectures
+- 🔐 Secure API development and authentication patterns
 
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always interested in:
-- 💼 Exciting job opportunities and collaborative projects
-- 🤝 Open-source contributions and community work
-- 💬 Discussing new technologies and best practices
-- 🌱 Mentoring and learning from others
+- 💼 Collaborations on innovative mobile and AI projects
+- 🤝 Open-source contributions, especially in Flutter and AI domains
+- 💬 Discussions about emerging technologies and best practices
+- 🌱 Mentoring and learning from the developer community
 
 <div align="center">
   
