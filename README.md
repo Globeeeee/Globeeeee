@@ -4,7 +4,7 @@
 ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Muhammad Qasim&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%C2%B7%20Node.js%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&animation=fadeIn" alt="Muhammad Qasim" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Muhammad_Qasim&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%C2%B7%20Node.js%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&animation=fadeIn" alt="Muhammad Qasim" />
 </p>
 
 <div align="center">
