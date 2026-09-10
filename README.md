@@ -9,6 +9,8 @@
 
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/165714884?v=4" width="110" height="110" alt="Muhammad Qasim" />
+
 ### I ship products people actually use
 
 Flutter · React Native · Node.js · AI automation  
