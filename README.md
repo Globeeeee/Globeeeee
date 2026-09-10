@@ -1,42 +1,38 @@
 <!-- ============================================================
   GitHub Profile README — Muhammad Qasim (Globeeeee)
-  Sources: CV + portfolio (qasimmushtaq.netlify.app)
-  Paste into: github.com/Globeeeee/Globeeeee/README.md
+  Portfolio: https://qasimmushtaq.netlify.app
 ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F6FEB,100:58A6FF&height=240&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Flutter%20%26%20Mobile%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=14&descAlignY=52&animation=fadeIn" alt="Muhammad Qasim" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Qasim&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%C2%B7%20Node.js%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&animation=fadeIn" alt="Qasim" />
 </p>
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/165714884?v=4" width="110" height="110" alt="avatar" />
+### I ship products people actually use
 
-### Production Flutter & React Native apps
-
-AI pipelines · offline-first sync · store releases users can rely on
-
-**3+ years** · iOS · Android · macOS · AWS / GCP  
+Flutter · React Native · Node.js · AI automation  
+**3+ years** · iOS · Android · App Store / Google Play  
 `Open to opportunities · Recruiters welcome`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=700&lines=AI+memoir+app+%E2%80%94+5+providers+in+one+Flutter+client;Realtime+sailing+community+%E2%80%94+RN+%2B+Go+%2B+NATS;Offline-first+sync+%26+store+releases;Clean+Architecture+that+stays+changeable" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=650&lines=Building+mobile+and+backend+systems;AI+pipelines+that+run+in+production;Offline-first+sync+%C2%B7+store+releases;Clean+architecture+%C2%B7+real-world+usability" alt="typing" />
 
 <br/>
 
 <a href="https://qasimmushtaq.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/Globeeeee?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-qasim--/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 &nbsp;
 <a href="mailto:qasimmushtaq223@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-qasim--/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Globeeeee&style=for-the-badge&color=1F6FEB&label=Profile+views" alt="Profile views" />
@@ -45,10 +41,10 @@ AI pipelines · offline-first sync · store releases users can rely on
 
 ---
 
-## Impact at a glance
+## Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shipping-3%2B%20years-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Years" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Experience" />
   <img src="https://img.shields.io/badge/Apps%20live-10%2B%20stores-3FB950?style=for-the-badge&labelColor=0D1117" alt="Apps" />
   <img src="https://img.shields.io/badge/Task%20completion-%2B40%25-79C0FF?style=for-the-badge&labelColor=0D1117" alt="Tasks" />
   <img src="https://img.shields.io/badge/Crashes-%E2%88%9230%25-F85149?style=for-the-badge&labelColor=0D1117" alt="Crashes" />
@@ -59,114 +55,72 @@ AI pipelines · offline-first sync · store releases users can rely on
 
 ## About
 
-Flutter & React Native engineer in **Lahore (UTC+5)**. I deliver iOS & Android products from first commit to **App Store / Google Play**.
+I build **end-to-end mobile systems** — Flutter / React Native clients, Node APIs, offline-first sync, and AI pipelines that ship to real users.
 
-Currently leading two live apps at **Devno Sol**:
-- an **AI memoir** product spanning five AI providers  
-- a **real-time sailing-event community** app  
+Currently at **Devno Sol** leading:
+- **Memoir** — AI memoir app (5 AI providers in one Flutter client)
+- **Fleet** — realtime sailing-event community (React Native + Go / NATS)
 
-The work that matters sits where mobile UI meets long-running systems — AI jobs, offline sync, realtime feeds — and still has to feel instant on a phone.
+| Focus | What that means |
+|:------|:----------------|
+| **Mobile** | Flutter and React Native apps that feel native and ship to stores |
+| **Backend** | Node.js / Express / Go APIs designed for scale and security |
+| **AI** | xAI Grok · Resemble.ai · AWS Transcribe · production LLM flows |
+| **Cloud** | AWS (ECS, RDS, S3) · GCP · Docker · Terraform · Fastlane |
 
-| Focus | What I deliver |
-|:------|:---------------|
-| **Mobile** | Flutter & React Native · iOS · Android · store releases |
-| **Architecture** | Clean Architecture · MVVM · Riverpod · offline-first · RBAC |
-| **AI** | xAI Grok · Resemble.ai · AWS Transcribe · async job polling |
-| **Realtime** | Socket.IO · WebSockets · NATS JetStream · FCM |
-| **Cloud** | AWS (ECS, RDS, S3, CloudFront) · GCP (k3s, ArgoCD) · Docker · Terraform · Fastlane |
+> Clean architecture · maintainability · usability over hype
 
-> When work outlives the screen that started it — uploads, scheduled jobs, webhooks — the UI is a rendering layer, not a source of truth.
+---
+
+## Now
+
+- Multi-provider **AI pipelines** that keep the UI responsive  
+- **Offline-first** sync and realtime collaboration patterns  
+- Hardening **secure, scalable APIs** on AWS / GCP  
+- Growing a **Python** toolkit for automation  
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,express,go,firebase,postgres,redis,aws,docker,git,linux&perline=5" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Riverpod-58A6FF?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F5A0?style=flat-square&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+</p>
 
 ---
 
 ## Featured work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Memoir
-**Live · App Store** · iOS · Android · Devno Sol  
-
-AI memoir app — spoken memories → illustrated, narrated chapters. Flutter client + **25+ Node microservices** on AWS ECS. xAI Grok, Resemble.ai, AWS Transcribe, Stripe.
-
-</td>
-<td width="50%" valign="top">
-
-### Fleet
-**Live · App Store** · iOS · Android · Devno Sol  
-
-Realtime social app for a sailing week series: live chat, event feed, Mapbox fleet maps, media upload, push. **React Native** + Go / NATS JetStream on GCP.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Easy Personeel](https://play.google.com/store/apps/details?id=com.digitalstations.digitalstations&hl=en_US)
-**Live · Google Play** · Android · Digital Stationz  
-
-Workforce management for Easy Clean Up B.V. (NL): GPS attendance, tasks, Firebase realtime sync.
-
-</td>
-<td width="50%" valign="top">
-
-### [DCS — Digital Clean Solution](https://play.google.com/store/apps/details?id=com.digitalcleansolution.nl&hl=en)
-**Live · Google Play** · Android · Digital Stationz  
-
-Part of a 3-app Flutter suite — shared Firebase sync + offline-first architecture with Easy Personeel.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [SMH — Hospital Patient App](https://play.google.com/store/apps/details?id=com.healthcloudpk.smh&hl=en)
-**Live · Google Play** · Android · DevStive  
-
-Patient engagement for Saleem Memorial Hospital — lab/radiology, prescriptions, appointments via HMIS/ERP.
-
-</td>
-<td width="50%" valign="top">
-
-### Asaan Kharidari
-**In development** · iOS · Android · DevStive  
-
-Offline-first shopping lists with collab sharing + RBAC — SQLite outbox sync, Socket.IO, Node / Postgres.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### EV-Go
-**Top 10 finalist** · World Startup Championship 2025  
-
-E-bike / scooter rental with live tracking, QR unlock, token payments — Flutter · Firebase · Google Maps.
-
-</td>
-<td width="50%" valign="top">
-
-### More on the web
-See case notes & visuals on my portfolio →  
-**[qasimmushtaq.netlify.app](https://qasimmushtaq.netlify.app)**
-
-</td>
-</tr>
-</table>
+| Domain | Projects | Snapshot |
+|:-------|:---------|:---------|
+| **AI and Mobile** | Memoir · Fleet | Live App Store apps at Devno Sol — AI pipelines + realtime community |
+| **Workforce / IoT** | [Easy Personeel](https://play.google.com/store/apps/details?id=com.digitalstations.digitalstations&hl=en_US) · [DCS](https://play.google.com/store/apps/details?id=com.digitalcleansolution.nl&hl=en) | Flutter + Firebase for Easy Clean Up B.V. (NL) |
+| **Health** | [SMH Hospital App](https://play.google.com/store/apps/details?id=com.healthcloudpk.smh&hl=en) | Patient engagement · HMIS/ERP · Google Play |
+| **Commerce** | Asaan Kharidari | Offline-first shopping lists · SQLite sync · Socket.IO |
+| **Mobility** | EV-Go | E-bike rental · Top 10 finalist · World Startup Championship 2025 |
 
 <details>
-<summary><b>Experiments on GitHub</b></summary>
+<summary><b>Experiments and learning</b></summary>
 <br/>
 
-| Repo | Notes |
-|:-----|:------|
-| [day8-react](https://github.com/Globeeeee/day8-react) | Expo / React Native starter |
-| [MERN](https://github.com/Globeeeee/MERN) | Full-stack MERN practice |
-| [Rubix-Cube-C-](https://github.com/Globeeeee/Rubix-Cube-C-) | Rubik’s Cube solver (C#) |
-| [practice](https://github.com/Globeeeee/practice) | DSA (C++) |
+- [day8-react](https://github.com/Globeeeee/day8-react) — Expo / React Native starter  
+- [MERN](https://github.com/Globeeeee/MERN) — full-stack practice  
+- [practice](https://github.com/Globeeeee/practice) — DSA (C++)  
+- [Rubix-Cube-C-](https://github.com/Globeeeee/Rubix-Cube-C-) — Rubik’s Cube Solver (C#)
 
 </details>
+
+More case notes → **[qasimmushtaq.netlify.app](https://qasimmushtaq.netlify.app)**
 
 ---
 
@@ -175,7 +129,55 @@ See case notes & visuals on my portfolio →
 ```text
 Feb 2026 – Present     Flutter Developer              Devno Sol
 Jun 2025 – Feb 2026    Mobile Application Developer   DevStive
-Dec 2024 – Jun 2025    Mobile Application Developer   Digital Stationz (NL client)
+Dec 2024 – Jun 2025    Mobile Application Developer   Digital Stationz
 Dec 2023 – Dec 2024    Mobile Application Developer   Royal Monarch Industries
 Jun 2023 – Nov 2023    Mobile App Development Intern  Royal Monarch Industries
-Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile & web projects
+Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web projects
+```
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Globeeeee&bg_color=0D1117&color=58A6FF&line=79C0FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+</p>
+
+<!--
+  Snake: if the dark SVG 404s, use the light one or add Platane/snk Action:
+  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+-->
+
+---
+
+## Education
+
+**B.S. Computer Science** — Riphah International University, Lahore  
+CGPA **3.61/4.0** · Dean’s List · Chancellor’s List · Oct 2021 – Jun 2025
+
+---
+
+<div align="center">
+
+### Build things people use. Keep it simple. Make it last.
+
+<sub>Portfolio · LinkedIn · or email — open to interesting mobile / AI work.</sub>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" alt="" />
+</p>
