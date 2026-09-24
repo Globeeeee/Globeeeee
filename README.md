@@ -163,10 +163,10 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 
 <p align="center">
   <a href="https://github.com/Globeeeee?tab=repositories">
-    <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
+    <img height="180" src="https://gh-stats.work/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Globeeeee?tab=repositories">
-    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+    <img height="180" src="https://gh-stats.work/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
   </a>
 </p>
 
