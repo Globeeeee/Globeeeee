@@ -142,8 +142,8 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 ## GitHub
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -151,17 +151,12 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Globeeeee&bg_color=0D1117&color=58A6FF&line=79C0FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Globeeeee&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Globeeeee&theme=github_dark" alt="Repos per language" />
 </p>
-
-<!--
-  Snake: if the dark SVG 404s, use the light one or add Platane/snk Action:
-  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
--->
 
 ---
 
