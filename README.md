@@ -188,7 +188,7 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 
 <p align="center">
   <a href="https://github.com/Globeeeee">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Globeeeee&bg_color=0D1117&color=58A6FF&line=79C0FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+    <img src="https://ghchart.rshah.org/58A6FF/Globeeeee" alt="Activity graph" />
   </a>
 </p>
 
