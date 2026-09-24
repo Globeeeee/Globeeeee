@@ -161,20 +161,42 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 
 <p align="center">
   <a href="https://github.com/Globeeeee?tab=repositories">
-    <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&v=2" alt="GitHub stats" />
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Globeeeee?tab=repositories">
-    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&v=2" alt="Top languages" />
+    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Globeeeee">
-    <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&v=20260924b" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" alt="Streak" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Globeeeee">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Globeeeee&theme=github_dark" alt="Profile details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Globeeeee">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Globeeeee&theme=github_dark" alt="Repos per language" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Globeeeee">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Globeeeee&bg_color=0D1117&color=58A6FF&line=79C0FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Globeeeee">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+  </a>
+</p>
 
 ## Education
 
