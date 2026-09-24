@@ -4,12 +4,14 @@
 ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%C2%B7%20Node.js%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&animation=fadeIn" alt="Muhammad Qasim" />
+  <a href="https://qasimmushtaq.netlify.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=220&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%C2%B7%20Node.js%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&animation=fadeIn" alt="Muhammad Qasim" />
+  </a>
 </p>
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/165714884?v=4" width="110" height="110" alt="Muhammad Qasim" />
+<a href="https://github.com/Globeeeee"><img src="https://avatars.githubusercontent.com/u/165714884?v=4" width="110" height="110" alt="Muhammad Qasim" /></a>
 
 ### I ship products people actually use
 
@@ -17,7 +19,7 @@ Flutter · React Native · Node.js · AI automation
 **3+ years** · iOS · Android · App Store / Google Play  
 `Open to opportunities · Recruiters welcome`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=650&lines=Building+mobile+and+backend+systems;AI+pipelines+that+run+in+production;Offline-first+sync+%C2%B7+store+releases;Clean+architecture+%C2%B7+real-world+usability" alt="typing" />
+<a href="https://qasimmushtaq.netlify.app"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=79C0FF&center=true&vCenter=true&width=650&lines=Building+mobile+and+backend+systems;AI+pipelines+that+run+in+production;Offline-first+sync+%C2%B7+store+releases;Clean+architecture+%C2%B7+real-world+usability" alt="typing" /></a>
 
 <br/>
 
@@ -37,7 +39,7 @@ Flutter · React Native · Node.js · AI automation
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Globeeeee&style=for-the-badge&color=1F6FEB&label=Profile+views" alt="Profile views" />
+<a href="https://github.com/Globeeeee"><img src="https://komarev.com/ghpvc/?username=Globeeeee&style=for-the-badge&color=1F6FEB&label=Profile+views" alt="Profile views" /></a>
 
 </div>
 
@@ -46,11 +48,11 @@ Flutter · React Native · Node.js · AI automation
 ## Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20years-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Experience" />
-  <img src="https://img.shields.io/badge/Apps%20live-10%2B%20stores-3FB950?style=for-the-badge&labelColor=0D1117" alt="Apps" />
-  <img src="https://img.shields.io/badge/Task%20completion-%2B40%25-79C0FF?style=for-the-badge&labelColor=0D1117" alt="Tasks" />
-  <img src="https://img.shields.io/badge/Crashes-%E2%88%9230%25-F85149?style=for-the-badge&labelColor=0D1117" alt="Crashes" />
-  <img src="https://img.shields.io/badge/EV%E2%80%91Go-Top%2010%20WSC%202025-F0883E?style=for-the-badge&labelColor=0D1117" alt="EV-Go" />
+  <a href="https://qasimmushtaq.netlify.app"><img src="https://img.shields.io/badge/Experience-3%2B%20years-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Experience" /></a>
+  <a href="https://qasimmushtaq.netlify.app"><img src="https://img.shields.io/badge/Apps%20live-10%2B%20stores-3FB950?style=for-the-badge&labelColor=0D1117" alt="Apps" /></a>
+  <a href="https://qasimmushtaq.netlify.app"><img src="https://img.shields.io/badge/Task%20completion-%2B40%25-79C0FF?style=for-the-badge&labelColor=0D1117" alt="Tasks" /></a>
+  <a href="https://qasimmushtaq.netlify.app"><img src="https://img.shields.io/badge/Crashes-%E2%88%9230%25-F85149?style=for-the-badge&labelColor=0D1117" alt="Crashes" /></a>
+  <a href="https://qasimmushtaq.netlify.app"><img src="https://img.shields.io/badge/EV%E2%80%91Go-Top%2010%20WSC%202025-F0883E?style=for-the-badge&labelColor=0D1117" alt="EV-Go" /></a>
 </p>
 
 ---
@@ -190,5 +192,7 @@ CGPA **3.61/4.0** · Dean’s List · Chancellor’s List · Oct 2021 – Jun 20
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" alt="" />
+  <a href="https://qasimmushtaq.netlify.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" alt="" />
+  </a>
 </p>
