@@ -158,20 +158,18 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 ## GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+  <a href="https://github.com/Globeeeee?tab=repositories">
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=Globeeeee&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&v=2" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Globeeeee?tab=repositories">
+    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Globeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&v=2" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&v=20260924" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Globeeeee&theme=github_dark" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Globeeeee&theme=github_dark" alt="Repos per language" />
+  <a href="https://github.com/Globeeeee">
+    <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&v=20260924b" alt="Streak" />
+  </a>
 </p>
 
 ---
