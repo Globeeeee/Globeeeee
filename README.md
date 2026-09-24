@@ -78,6 +78,7 @@ Currently at **Devno Sol** leading:
 
 ## Now
 
+- **QC Advanced** — inspection templates, scored checklists, reports, and billing on iOS and Android  
 - Multi-provider **AI pipelines** that keep the UI responsive  
 - **Offline-first** sync and realtime collaboration patterns  
 - Hardening **secure, scalable APIs** on AWS / GCP  
@@ -123,6 +124,7 @@ Currently at **Devno Sol** leading:
 
 | Domain | Projects | Snapshot |
 |:-------|:---------|:---------|
+| **Quality control** | QC Advanced | React Native inspections — scored checklists, reports, RBAC, chat, Stripe |
 | **AI and Mobile** | Memoir · Fleet | Live App Store apps at Devno Sol — AI pipelines + realtime community |
 | **Workforce / IoT** | [Easy Personeel](https://play.google.com/store/apps/details?id=com.digitalstations.digitalstations&hl=en_US) · [DCS](https://play.google.com/store/apps/details?id=com.digitalcleansolution.nl&hl=en) | Flutter + Firebase for Easy Clean Up B.V. (NL) |
 | **Health** | [SMH Hospital App](https://play.google.com/store/apps/details?id=com.healthcloudpk.smh&hl=en) | Patient engagement · HMIS/ERP · Google Play |
