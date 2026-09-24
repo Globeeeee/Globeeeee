@@ -86,17 +86,33 @@ Currently at **Devno Sol** leading:
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,express,go,firebase,postgres,redis,aws,docker,git,linux&perline=5" alt="Tech stack" />
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <br/>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <br/>
+  <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Riverpod-58A6FF?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastlane-00F5A0?style=flat-square&logo=fastlane&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+  <a href="https://riverpod.dev"><img src="https://img.shields.io/badge/Riverpod-58A6FF?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" /></a>
+  <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" /></a>
+  <a href="https://tanstack.com/query"><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" /></a>
+  <a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" /></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></a>
+  <a href="https://fastlane.tools"><img src="https://img.shields.io/badge/Fastlane-00F5A0?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane" /></a>
+  <a href="https://www.mapbox.com"><img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" /></a>
 </p>
 
 ---
