@@ -147,7 +147,7 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Globeeeee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&v=20260924" alt="Streak" />
 </p>
 
 <p align="center">
