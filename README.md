@@ -188,12 +188,6 @@ Mar 2023 – Jul 2025    Freelance Full Stack           10+ mobile and web proje
 
 <p align="center">
   <a href="https://github.com/Globeeeee">
-    <img src="https://ghchart.rshah.org/58A6FF/Globeeeee" alt="Activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Globeeeee">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
   </a>
 </p>
